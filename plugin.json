@@ -2,7 +2,7 @@
   "name"              :"HelloWorld",
   "description"       :"My first plugin",
   "namespace"         :"HelloWorld",
-  "author"            :"Your name",
+  "author"            :"Oliver",
   "type"              :"template",
-  "serviceProvider"   :null
+  "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
