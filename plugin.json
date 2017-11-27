@@ -4,6 +4,6 @@
   "namespace"         :"HelloWorld",
   "author"            :"Oliver",
   "type"              :"template",
-  "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
-//,  "require"           :{"Ceres":"^1.7.1"}
+  "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider",
+  "require"           :{"Ceres":"1.7.1"}
 }
