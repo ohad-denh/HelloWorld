@@ -5,5 +5,5 @@
   "author"            :"Oliver",
   "type"              :"template",
   "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider",
-  "require"           :{"Ceres":"<=1.7.2"}
+  "require"           :{"Ceres":"<=1.7.1"}
 }
